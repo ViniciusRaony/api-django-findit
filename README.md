@@ -41,6 +41,10 @@ Antes de iniciar a aplicação é necessário a instalação das seguintes ferra
 - URL para acessar deploy GCP:
   
   ```acesse https://site-sq75eata2q-uc.a.run.app/``` 
+  
+- Frontend para consumir API:
+ 
+  ```acesse https://finditapi.netlify.app/``` 
 
 
 ## 🚉 Rotas da API
