@@ -24,7 +24,7 @@ Antes de iniciar a aplicação é necessário a instalação das seguintes ferra
 
 - Clone esse repositório:
 
-  ```$ git clone <https://github.com/ViniciusRaony/api-django-findit.git>```
+  ```$ git clone https://github.com/ViniciusRaony/api-django-findit.git```
 
 - Instale as dependências:
 
@@ -37,6 +37,10 @@ Antes de iniciar a aplicação é necessário a instalação das seguintes ferra
 - URL para acessar servidor local:
 
   ```acesse http://localhost:8000/``` 
+  
+- URL para acessar deploy GCP:
+  
+  ```acesse https://site-sq75eata2q-uc.a.run.app/``` 
 
 
 ## 🚉 Rotas da API
