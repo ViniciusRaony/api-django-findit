@@ -50,7 +50,7 @@ Antes de iniciar a aplicação é necessário a instalação das seguintes ferra
 
 - Rota ```/v1/api/cadastro/id``` (método ```GET```): Retornar tarefa por ID
 
-- Rota ```/v1/api/cadastro/id``` (método ```PUT```): Atualizar tarega
+- Rota ```/v1/api/cadastro/id``` (método ```PUT```): Atualizar tarefa
 
 - Rota ```/v1/api/cadastro/id``` (método ```DELETE```): Deletar tarefa
 
