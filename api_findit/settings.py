@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'site-sq75eata2q-uc.a.run.app',
+    'finditapi.netlify.app'
 ]
 
 
